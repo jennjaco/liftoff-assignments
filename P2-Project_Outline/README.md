@@ -17,6 +17,7 @@ Create: A specific entry for each person
 
 ### Technologies
 C#
+ASP.NET
 Bootstrap templates
 MySQL
 
