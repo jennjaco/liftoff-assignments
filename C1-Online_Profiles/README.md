@@ -14,6 +14,6 @@ www.linkedin.com/in/jennifer-jacobson-658748189
 
 
 ### Resume
-
+https://github.com/jennjaco/liftoff-assignments/blob/master/Jacobson%20Resume%20(2).pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
