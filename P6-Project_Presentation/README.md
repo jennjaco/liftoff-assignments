@@ -1,3 +1,4 @@
+
 # Project Presentation
 We want to you to create a set of presentation slides summarizing your project.
 
@@ -8,3 +9,5 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+
+[GIFTed Presentation.pdf](https://github.com/jennjaco/liftoff-assignments/files/6072539/GIFTed.Presentation.pdf)
